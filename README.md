@@ -31,7 +31,7 @@
 
 1. Clone the repository or download the `password_generator.py` file.
 2. Install the required dependencies by running `pip install -r requirements.txt` in your terminal.
-3. Run the script using `python password_generator.py`.
+3. Run the script using `python3 password_generator.py`.
 4. Follow the prompts to specify the password length and customize the character set.
 5. The generated password will be displayed along with its strength level.
 6. Choose to copy the password to the clipboard or save it to a file.
