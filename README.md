@@ -1,7 +1,7 @@
 <h1 align="center">Password Generator</h1>
 
 <p align="center">
-  <img src="password-generator.png" alt="Password Generator">
+ 
 </p>
 
 <p align="center">A stylish and secure password generator written in Python.</p>
